@@ -1,3 +1,4 @@
+\
 # EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
@@ -38,36 +39,20 @@ b.  KCL:
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
-CIRCUIT DIAGRAM:
-
-CIRCUIT DIAGRAM:
+CIRCUIT DIAGRAM:<img width="1920" height="1080" alt="kvl" src="https://github.com/user-attachments/assets/ae9e5a05-ca1d-4819-bce5-09b9235ee2f5" />
 
 
-a.   KVL:
+CIRCUIT DIAGRAM:<img width="1753" height="923" alt="kcl" src="https://github.com/user-attachments/assets/e9029a2a-9cd4-47ac-a859-0e617635230c"
  
-
-
-b.  KCL:
- 
-
 Calculation:
 
-a.   KVL:
+a.   KVL:<img width="418" height="626" alt="Screenshot 2026-10-27 141544" src="https://github.com/user-attachments/assets/3c6f8cb8-66a1-4734-ad14-b0f198020697" />
+
  
 
 
-b.  KCL:
+b.  KCL:Screenshot 2026-10-27 141601
 
-
-
-
-Tabulation:
-
-a.   KVL:
- 
-
-
-b.  KCL:
 
 
 
